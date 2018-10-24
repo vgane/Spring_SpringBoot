@@ -2,7 +2,7 @@
 Spring training using Spring Tool Suite. 
 
 Covering:
-IOC, Setter Injection,
+Spring training 2-IOC, Setter Injection
 
 
 Uses:
