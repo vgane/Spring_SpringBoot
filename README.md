@@ -1,7 +1,12 @@
 # Spring_SpringBoot
 Spring training using Spring Tool Suite. 
+Also Uses:
+Mavem,
+Tomcat, 
+Web,
+Junit
 
-Covering:
+Files:
 
 Spring training 2:
 
@@ -11,8 +16,3 @@ com.junit.test and test2-junit examples
 
 
 
-Uses:
-Mavem,
-Tomcat, 
-Web,
-Junit
