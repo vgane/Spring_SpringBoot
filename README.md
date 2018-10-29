@@ -16,3 +16,5 @@ com.junit.test and test2-junit examples
 
 
 
+Spring training 3:-bean scope and lifecycle
+
