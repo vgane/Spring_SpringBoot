@@ -18,3 +18,7 @@ com.junit.test and test2-junit examples
 
 Spring training 3:-bean scope and lifecycle
 
+
+
+Spring training 3 Annotations: - Constructor Injection, Feild Injection, @Scope, @PreDestroy, @PostConstructs
+
