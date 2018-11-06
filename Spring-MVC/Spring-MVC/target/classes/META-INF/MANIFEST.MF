@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-MVC
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Viju
+Implementation-Vendor-Id: com.spring.annotations
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/trial2
+Created-By: Maven Integration for Eclipse
+
